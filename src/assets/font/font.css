@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'NotoSansHans-Bold';
+  src: url('NotoSansHans-Bold.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'NotoSansHans-Regular';
+  src: url('NotoSansHans-Regular.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'TCCEB';
+  src: url('TCCEB.TTF');
+  font-weight: normal;
+  font-style: normal;
+}

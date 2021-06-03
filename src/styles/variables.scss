@@ -1,0 +1,9 @@
+$headerHeight: 80px;
+$buttonActiveColor: #3385FF;
+$mainColor: #135DFE;
+
+:export {
+    headerHeight:  $headerHeight;
+    buttonActiveColor: $buttonActiveColor;
+    mainColor: $mainColor;
+  }
