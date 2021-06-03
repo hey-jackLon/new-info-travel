@@ -54,6 +54,9 @@ export default {
   padding: 0 20px;
   font-family: "NotoSansHans-Bold";
   min-width: 750px;
+  box-shadow: 0px 0px 10px 0px rgba(42, 49, 65, 0.5);
+  z-index: 100;
+  position: relative;
 }
 .logo{
   background: linear-gradient(0deg, #004EFF 0%, #06B0FF 100%);
